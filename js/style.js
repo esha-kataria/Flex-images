@@ -24,9 +24,3 @@ function img1(id,id2,id3){
     document.getElementById(id3).className='textt3';
         }
 }
-
-let box=document.getElementById("box");
-function button1(){
-    box.className= "box1";
-    box.style.transition= "2s";
-}
